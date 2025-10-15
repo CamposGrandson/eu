@@ -159,3 +159,47 @@ outras relações com essas variáveis podem ser adiquiridas.
 | **τ** | – | Sistema **se contrai**, recebendo trabalho do meio externo | **Trabalho realizado sobre o sistema** |
 
 ---
+
+# Parte 3 — Cientista Ariel "Papa-Capim" Coutinho `Porta à esquerda do Hall`
+## Mecânica: Avanço pela área no timing correto.
+
+Ao atravessar a porta localizada na esquerda do hall é possível ver  uma sala com diversos objetos jogados, que poderão ser utilizados como ponto seguro para avanço, pois há uma máquina humanóide ( cientista Ariel ) que deseja pegar o jogador.
+
+**Conforme avança, no fim da sala é possível ver um quadro com as seguintes informações:**
+
+![.](https://realizeeducacao.com.br/wp-content/uploads/2022/01/ciclo-de-carnot-848x480.png)
+ - A→B : **Expansão Isotérmica** = O sistema recebe calor Q₁ e realiza trabalho Wᴬᴮ contra a vizinhança.
+ - B→C : **Expansão Adiabática** = O sistema não troca calor, mas realiza trabalho Wᵇᶜ contra a vizinhança.
+ - C→D : **Compressão Isotérmica** = O sistema perde calor Q₂ e recebe trabalho Wᶜᵈ da vizinhança.
+ - D→A : **Compressão Adiabática** = O sistema não troca calor, mas recebe trabalho Wᵈᵃ da vizinhança.
+
+No quadro é possível ver várias escrituras:
+
+>*“Uma máquina não pode operar a 100% de rendimento pois realiza aumento de entropia”*
+
+>*“Se eu compreender o ciclo, posso entender como executá-lo perfeitamente”*
+
+>***“Em uma máquina perfeita, o ciclo funciona dessa maneira:***
+>- ***Expansão isotérmica (A-B): O processo é isotérmico (a temperatura não muda), pois no funcionamento ideal toda energia recebida vira trabalho.***
+>- ***Expansão adiabática (B-C): não há troca de calor, o trabalho é realizado com a energia interna, o que leva à expansão.***
+>- ***Compressão Isotérmica (C-D): calor é liberado para a fonte fria, mas mantém  temperatura constante.***
+>- ***Compressão adiabática (D-A): Trabalho é realizado, elevando a fonte quente de volta a sua temperatura inicial"***
+
+"Com esse processo, violando a segunda lei da termodinâmica, Ariel poderá perecer e papa-capim poderá surgir”
+
+Para retornar, o jogador deverá realizar o mesmo caminho feito anteriormente, evitando Ariel Papa-Capim, mas agora no sentido inverso.
+
+# Parte 4 — Cientista Gabriel "Theo" Corrêa`Porta à direita do Hall`
+## Mecânica: Resolução lógica e decodificação
+
+Ao atravessar a porta localizada na direita do hall, percebe-se que há uma sala relativamente simples e mais calma do que as outras. Nessa sala há diversas anotações nas paredes, que se assemelham com uma organização de ideias, um estudo:
+
+>*“Uma máquina térmica queima um combustível para gerar energia térmica e usar essa energia para realizar trabalho. Porém toda máquina, assim como nós humanos, tem falhas. Uma parcela vira trabalho e a outra há de ser dissipada e irá para uma fonte mais fria, como o próprio ambiente, devido a atrito com as partes móveis, materiais imperfeitos e todo outro tipo de razão. Se a energia não for dissipada, o ciclo não poderá continuar”*
+
+>*“Uma máquina sempre se degradará, pois nenhuma tem rendimento igual a 100%, seu rendimento pode ser entendido como a relação entre o trabalho mecânico que ela gera e a quantidade de calor absorvido para tal.”*
+
+>*“Uma máquina sempre se degradará, pois nenhuma tem rendimento igual a 100%, seu rendimento pode ser entendido como a relação entre o trabalho mecânico que ela gera e a quantidade de calor absorvido para tal.”*
+
+>*“Talvez uma máquina com 100% de rendimento não dissipe energia com o atrito com suas partes móveis e possa não só gastar o mínimo de energia, como também funcionar para sempre. Precisamos chegar o mais próximo possível disso. Eu, Theo, não posso desapontar o Dr Thorne.”*
+
+>*“talvez manipular um pouco a equação para que ela fique assim torne as coisas mais fáceis às vezes*
