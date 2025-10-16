@@ -3,18 +3,18 @@
 
    ## História resumida da fase
 
-*O Dr Aris Thorne precisava de ajuda para finalizar a máquina de entropia, então pediu ajuda a seus 5 amigos cientistas, mas nunca lhes contou o objetivo dele.
-Os amigos nunca conseguiram terminar a máquina, pois não puderam estabilizar o núcleo do reator que servia de fonte para a máquina, 4 deles sumiram e o último, 
+*O **Dr Aris Thorne** precisava de ajuda para finalizar a máquina de entropia, então pediu ajuda a seus 5 amigos cientistas, mas nunca lhes contou o objetivo dele.
+Os amigos nunca conseguiram terminar a máquina, pois não puderam estabilizar o núcleo do reator que servia de fonte para ela, 4 deles sumiram e o último, 
 com medo de seu fim, ficou obcecado em se tornar uma máquina perfeita e infinita.*
 
-O objetivo do jogador é conseguir chegar ao núcleo do reator passando por diversos desafios, incluindo fugir de uma máquina e estabilizá-lo, produzindo a chamada “Máquina de Entropia”
+O objetivo do jogador é conseguir chegar ao núcleo do reator passando por diversos desafios, incluindo fugir de uma máquina e estabilizá-lo, produzindo a chamada **“Máquina de Entropia”**
 
 
   ---
 
    ## Localização da Fábrica: **Glasgow, Escócia**
 
-Acessível ao encontrar um recibo na Fase 1, comprovando que o Dr. Aris Thorne comprou um antigo laboratório de James Watt, pioneiro da máquina a vapor.  
+Acessível ao encontrar um recibo na **Fase 1**, comprovando que o Dr. Aris Thorne comprou um antigo laboratório de James Watt, pioneiro da máquina a vapor.  
 
 >## Recibo de Compra - Laboratório de Glasgow
 >- Comprador: Dr. Aris Thorne
@@ -52,16 +52,16 @@ exigindo uma **senha codificada**.
 No tablet do Dr Thorne, há um arquivo com o nome *“Para Aqueles Que Podem Acabar com a Ordem ou Organizar o Caos”*.
    
 >## Arquivo de Anotações – Dr. ArisThorne
->*O nosso universo age de forma engraçada. Pormais que tentemos organizar as coisas, seu estado natural é a desordem. Um copo de vidro ao cair se estilhaça em milhares de pedaços em segundos,
-mas reconstruí-lo é um processo muito mais trabalhoso, assim como o gelo, por exemplo, seria o estado mais organizado das moléculas da água, no entanto, elatende ao estado sólido em temperatura
+>*O nosso universo age de forma engraçada. Por mais que tentemos organizar as coisas, seu estado natural é a desordem. Um copo de vidro ao cair se estilhaça em milhares de pedaços em segundos,
+mas reconstruí-lo é um processo muito mais trabalhoso, assim como o gelo, por exemplo, seria o estado mais organizado das moléculas da água, no entanto, ela tende ao estado sólido em temperatura
 ambiente. Aaleatoriedade, o número de estados possíveis sempre aumenta. Isso tem a ver com um conceito chave da pesquisa da minha vida. No entanto, apesar de ter a esperança que este material
-esteja em mãos confiáveis, não posso correr riscos. Preciso de uma provação antes de confiar meus segredos. Há um roteiro de pesquisa de campo a ser feito numa cidade. Ache o valor da quantidade
-de calor de lá e, ao encontrá-lo, divida pela temperatura absoluta domeu projeto, assim terá a chave de acesso para meu maior segredo. Lembre-se, alguns valores estão mais à mostra doque imaginamos,
+esteja em mãos confiáveis, não posso correr riscos. Preciso de uma provação antes de confiar meus segredos. Há um roteiro de pesquisa de campo a ser feito numa cidade. **Ache o valor da quantidade
+de calor** de lá e, ao encontrá-lo, **divida pela temperatura absoluta** do meu projeto, assim terá a chave de acesso para meu maior segredo. Lembre-se, alguns valores estão mais à mostra doque imaginamos,
 e o Kelvin dita o absoluto.*
 >
->*Nada é estável.A entropia guia o fluxo. Procure Q/T.*
+>*Nada é estável, a entropia guia o fluxo. Procure Q/T.*
 
-Ele contém uma mensagem enigmática e requer o uso da **fórmula da entropia** para ser resolvido, revelando assim a senha para acessar o lab.
+Ele contém uma mensagem enigmática e requer o uso da **fórmula da entropia** para ser resolvido, revelando assim a senha para acessar o laboratório.
 
 - **Objetivo:** descobrir a senha de acesso à fábrica.  
 - **Mecânica:** o jogador deve usar o valor numérico da quantidade de calor obtido na Fase 2 e dividi-lo por **300 K** (referência ao título do jogo).  
@@ -84,16 +84,16 @@ Máquinas enferrujadas, papéis espalhados e caixas empilhadas de forma desorden
 - Escada para o andar superior  
 - Grande porta ao fundo (acesso ao subsolo e ao reator central)
 
-# Parte 1 — cientista Marcos “Dante” Faustino  `Hall de Entrada`
+# Parte 1 — Cientista Marcos “Dante” Faustino  `Hall de Entrada`
   ## Mecânica: **exploração e montagem de itens.**
 
-O jogador deve usar um pé de cabra para quebrar objetos espalhados e recuperar peças de um gravador. 
-Ao montá-lo, um áudio de Dr. Aris Thorne é reproduzido, explicando sua teoria sobre a entropia como uma “linguagem da matéria”.
+ O jogador deve usar um pé de cabra para quebrar objetos espalhados e recuperar peças de um gravador.
+ Ao montá-lo, um áudio de Dr. Aris Thorne é reproduzido, explicando sua teoria sobre a entropia como uma “linguagem da matéria”.
 
 >### Arquivo confidencial – Diário de Pesquisa do Dr. Aris Thorne
 >Data: desconhecida – sistema de contagem de tempo não pode ser reconstruído
 
->*Eles acreditam que a realidade é estável. Que a matéria repousa sobre leis fixas e mensuráveis. Mas na base de tudo existe apenas **movimento** — vibração incessante, 
+>*"Eles acreditam que a realidade é estável. Que a matéria repousa sobre leis fixas e mensuráveis. Mas na base de tudo existe apenas **movimento** — vibração incessante, 
 moléculas em constante **agitação** tentando escapar do destino imposto pela própria estrutura do universo. Hoje avancei mais um passo.*
 >
 > *Meu novo dispositivo conseguiu isolar um sistema por tempo suficiente para medir com precisão sua **energia interna** sem interferência do ambiente. O resultado foi…
@@ -113,8 +113,8 @@ A entropia não é passiva. Ela é uma força que **defende sua trajetória**. R
 congelar o caos. Outros diriam que aumentá-la libera a fúria térmica do universo. Mas não se trata disso. Não se trata de frio ou calor. Não se trata de destruir ou
 preservar. Eu não busco equilíbrio, tampouco colapso. Eu busco apenas resultados. A entropia é uma linguagem antiga. E eu estou aprendendo a falar com ela. Se eu
 continuar, talvez nada permaneça como antes. Talvez nada possa. Mas já é tarde demais para recuar. A matéria sussurra. E agora… eu respondo. Já chegou a hora de 
-eu cumprir meu papel nessa história.*
-*— Dr. Aris Thorne*
+eu cumprir meu papel nessa história."*
+***— Dr. Aris Thorne***
 
 Tambem pode ser encontrado um bilhete com os dizeres:
 
@@ -126,7 +126,7 @@ Tambem pode ser encontrado um bilhete com os dizeres:
 
 ---
 
-# Parte 2 — cientista “Campos Neto” `Escada para o andar superior`
+# Parte 2 — Cientista “Campos Neto” `Escada para o andar superior`
 ## Mecânica: coleta e reconstrução experimental.
 
 Ao subir as escadas, é possível ver um laboratório com alguns equipamentos faltantes, e uma frase na parede:
@@ -145,7 +145,7 @@ Ao encontrar equipamentos perdidos pela fábrica, é possível reproduzir o expe
  - ΔU < 0 → resfriamento  
  - Q > 0 → sistema absorve calor  
  - τ > 0 → sistema realiza trabalho  
-"A variação da energia interna é o calor absorvido pelo sistema menos o trabalho realizado por ele." `conclusões, que serão anotadas no diário.`
+"A variação da energia interna é o calor absorvido pelo sistema menos o trabalho realizado por ele." `conclusões que serão anotadas no diário.`
 
 outras relações com essas variáveis podem ser adiquiridas.
 
@@ -185,7 +185,7 @@ No quadro é possível ver várias escrituras:
 >- ***Compressão Isotérmica (C-D): calor é liberado para a fonte fria, mas mantém  temperatura constante.***
 >- ***Compressão adiabática (D-A): Trabalho é realizado, elevando a fonte quente de volta a sua temperatura inicial"***
 
-"Com esse processo, violando a segunda lei da termodinâmica, Ariel poderá perecer e papa-capim poderá surgir”
+>"Com esse processo, violando a segunda lei da termodinâmica, Ariel poderá perecer e papa-capim poderá surgir”
 
 Para retornar, o jogador deverá realizar o mesmo caminho feito anteriormente, evitando Ariel Papa-Capim, mas agora no sentido inverso.
 
@@ -203,3 +203,133 @@ Ao atravessar a porta localizada na direita do hall, percebe-se que há uma sala
 >*“Talvez uma máquina com 100% de rendimento não dissipe energia com o atrito com suas partes móveis e possa não só gastar o mínimo de energia, como também funcionar para sempre. Precisamos chegar o mais próximo possível disso. Eu, Theo, não posso desapontar o Dr Thorne.”*
 
 >*“talvez manipular um pouco a equação para que ela fique assim torne as coisas mais fáceis às vezes*
+
+
+>$$
+>\eta = \frac{Q_Q - Q_F}{Q_Q}
+>$$
+>
+>$$
+>\eta = 1 - \frac{Q_F}{Q_Q}
+>$$
+
+>**η (eta)** → é o **rendimento da máquina térmica** (sem unidade, pode ser convertido em %).  
+Representa a **fração de energia térmica que é transformada em trabalho útil**.
+
+>**Q<sub>Q</sub>** → é o **calor absorvido da fonte quente**, ou seja, **a energia térmica recebida pelo sistema**.
+
+>**Q<sub>F</sub>** → é o **calor rejeitado para a fonte fria**, ou seja, **a energia que o sistema devolve e não é aproveitada como trabalho**.
+
+>*“Isso corrobora com a segunda lei da termodinâmica, que afirma que:*
+>
+>-***o calor sempre flui da fonte mais quente para a mais fria, pois o aumento da temperatura eleva a agitação das moléculas e, consequentemente, a entropia;***
+>
+>-***é impossível uma máquina térmica ter 100% de rendimento.”***
+
+   ### Ao tentar sair percebe-se que, para abrir a porta, o sistema de segurança pede uma pergunta:
+
+#### *“Uma máquina térmica absorve 1200J de uma fonte quente e realiza 600 joules de trabalho, quanto é dissipado para a fonte fria nesse processo?”*
+A eficiência η é definida como:
+
+$$
+\eta = \frac{W}{Q_Q}
+$$
+
+substituindo os valores `W= 600 e Qq = 1200` encontra-se η = 0,5 . Ao substituir na outra fórmula:
+
+$$           
+0,5 = 1 - \frac{Q_F}{1200}  > {Q_F}=**600**
+$$                         
+
+Ao dar a resposta certa, você pode sair da sala.
+
+   ---
+
+# Parte 5.1 — cientista Gabriel Conforto `Grande porta ao fundo`
+## Mecânica: espostas sequenciais para destrancar a porta
+
+### Protegida por uma grande porta, essa área pede uma sequência de respostas para ser acessada, elas são:
+
+---
+
+- Até 1824 acreditava-se que as máquinas térmicas, cujos exemplos são as máquinas a vapor e os atuais motores a combustão, poderiam ter um funcionamento ideal.
+Sadi Carnot demonstrou a impossibilidade de uma máquina térmica, funcionando em ciclos entre duas fontes térmicas (uma quente e outra fria), obter 100% de rendimento.
+Tal limitação ocorre porque essas máquinas:
+
+a) realizam trabalho mecânico.
+
+***b) produzem aumento da entropia.***
+
+c) utilizam transformações adiabáticas.
+
+d) contrariam a lei da conservação de energia.
+
+e) funcionam com temperatura igual à da fonte quente.
+
+---
+
+- Durante um processo espontâneo, podemos afirmar que a entropia de um sistema termodinâmico:
+
+a) sempre diminui.
+
+b) permanece constante.
+
+***c) aumenta até um valor máximo.***
+
+d) diminui até chegar a zero.
+
+e) aumenta e depois diminui até chegar a zero.
+
+---
+
+- Qual a quantidade de calor recebido por um gás que foi comprido por um trabalho de 400 J, sabendo que a variação da sua energia interna foi de 600 J?
+
+Resposta - ***200J***
+  
+---
+
+- Calcule a temperatura da fonte fria de uma máquina de Carnot considerando que a temperatura da sua fonte quente é de 860 K e que o seu rendimento é de 90%.
+
+Resposta - ***86K***
+
+Com todas a respostas certas a porta se abre permitindo a passagem.
+
+---
+
+# Parte 5.2 — cientista Gabriel Conforto `Reator da Máquina de entropia`
+## Mecânica: calibragem do reator principal
+
+A porta revela uma escada para uma área subterrânea com uma linha de produção que, ao interagir, diz que o sistema de alimentação dela está com defeito.
+
+É possível observar um reator defeituoso a frente, que possui um brilho estranho, ele possui vários **sistemas de calibragem, que devem ser ajustados** para que o reator comece a funcionar. 
+
+### O sistema de calibração do reator diz o seguinte:
+
+- ***“o reator está recebendo 500kJ de calor e realizando uma quantidade de trabalho de 150kJ. Em condições ideais, nosso reator deve ter uma variação de energia interna de 225kJ.***
+
+  *Quanto de trabalho você deseja instruir que o reator realize a mais?”*
+
+Resposta - ***125kJ***
+
+Quando ele começar a funcionar, pode se interagir em sequência, com as máquinas do sistema de produção, que criarão a **máquina de entropia**.
+
+Calibrando o reator com a resposta certa as máquinas voltaram a funcionar e finalizarão a criacao da Máquina de Entropia, que quando adiquirida revela uma mensagem gravada em sua parte traseira:
+
+> *Assim como a terceira lei da termodinâmica diz que o zero absoluto não pode ser alcançado, receio que a perfeição também não. Os materiais imperfeitos que usamos fizeram com que fosse necessário aproximações, o que não é problema no uso comum, mas em grandes escalas…*
+>
+> *Se a chama do risco aquece mais que a luz do resultado, talvez seja melhor manter a distância do fogo.*
+>
+>  ***— Cientista Gabriel C.***
+
+---
+
+# Conclusão da Fase 4 — A Fábrica da Entropia
+Nesta fase, o jogador explorou a fábrica do Dr. Aris Thorne, enfrentando desafios de **exploração, montagem de itens, resolução de enigmas e calibração de sistemas**. Cada setor trouxe conceitos **fundamentais da termodinâmica**:
+
+  - **Primeira lei da termodinâmica:** ΔU = Q – τ, energia interna, calor e trabalho.
+
+  - **Segunda lei da termodinâmica e entropia:** impossibilidade de máquinas 100% eficientes, fluxo de calor e aumento da desordem.
+
+  - **Ciclo de Carnot e rendimento:** Q₁, Q₂, W e η, controle de energia em sistemas ideais.
+
+Ao final, calibrando o reator, o jogador constrói a Máquina de Entropia, combinando conhecimento teórico e prática experimental. Com a máquina em mãos, ele está pronto para avançar para as próximas fases do jogo.
